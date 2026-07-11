@@ -1,4 +1,4 @@
-# AI Logo Remover 🧽✨
+# Gemini Logo Remover 🧽✨
 
 A desktop application built with Python (**Tkinter** and **OpenCV**) designed to effortlessly erase logos, text, watermarks, and unwanted objects from images. It offers a unique dual-mode workflow: an intelligent, zero-overhead heuristic corner scanner for instant automatic localization, alongside a pixel-perfect click-and-drag manual selection box equipped with sub-region contour tuning.
 
